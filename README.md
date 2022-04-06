@@ -4,6 +4,7 @@
 Repozytorium przechowuje kody i rozwiązania do zadań realizowanych na laboratorium.
 
 1. [***Metody rozwiązywania układów równań liniowych***](https://github.com/colonelWalterKurtz/PodstawyObliczenKomputerowych/blob/master/lab2/POK_lab2.ipynb)
+2. [***Metody rozwiązywania układów równań nieliniowych***](https://github.com/colonelWalterKurtz/PodstawyObliczenKomputerowych/blob/master/lab3/)
 
 #### autorzy:
 - Mateusz Gancarek 253264
